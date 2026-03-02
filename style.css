@@ -1,0 +1,76 @@
+body {
+    font-family: Arial;
+    background: linear-gradient(rgb(4, 4, 52))
+}
+
+.main-table {
+    width: 95%;
+    margin: 1px auto;
+    background: white;
+    border-radius: 10px;
+    border-collapse: collapse;
+}
+
+.profilepic {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.left {
+    width: 20%;
+    padding: 6px;
+    vertical-align: top;
+}
+.left button {
+    padding: auto;
+    margin-left: 20px;
+    border-radius: 30px;
+    background:black;
+    color: white;
+}
+
+.right {
+    width: 80%;
+    padding: 10px;
+    vertical-align: top;
+}
+.right button{
+    padding: auto;
+    float:right;
+    margin-top: 3px;
+    margin-right: 100px;
+    border-radius: 10px;
+    background-color:black;
+    color:white;
+
+}
+.right h3 {
+    color: blue;
+}
+
+
+.info {
+    width: 100%;
+}
+
+.info td {
+    padding: 10px;
+    border-bottom: 1px ;
+}
+
+.blue {
+    color: blue;
+}
+
+
+.about {
+    color: blue;
+    font-weight: bold;
+    border-bottom: 2px solid blue;
+    width: 10px;
+}
+
+.timeline {
+    padding-left: 30px;
+}
